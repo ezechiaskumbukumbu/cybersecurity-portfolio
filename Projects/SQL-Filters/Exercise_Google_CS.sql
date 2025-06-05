@@ -25,3 +25,6 @@ WHERE office LIKE 'South-%';
 SELECT *
 FROM employees
 WHERE office = 'South-109';
+
+# Operators for filtering
+
