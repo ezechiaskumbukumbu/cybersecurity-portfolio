@@ -1,0 +1,4 @@
+"Asset","Network access","Owner","Location","Notes","Sensitivity"
+"Printer","Occasional","Homeowner","Home office","Connects wirelessly to the network. May store copies of sensitive business documents.","Restricted"
+"Webcam","Occasional","Homeowner","Attached to desktop","Used for video calls. If compromised, could lead to privacy breaches.","Confidential"
+"External Hard Drive","Occasional","Homeowner","Desk, near desktop","Stores business backups and sensitive client information.","Restricted"
